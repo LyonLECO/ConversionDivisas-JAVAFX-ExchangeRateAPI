@@ -14,7 +14,7 @@ import java.util.ResourceBundle;
 
 public class HelloController implements Initializable {
     // Define la constante API_KEY aquí (private static final String).
-    private static final String API_KEY = "4c676285d295f9699116e504";
+    private static final String API_KEY = "TU API KEY AQUI";
 
     // Instancia de ServicioMoneda (private final ServicioMoneda)
     private final ServicioMoneda servicioMoneda = new ServicioMoneda();
